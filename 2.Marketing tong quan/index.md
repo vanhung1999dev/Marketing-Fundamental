@@ -15,3 +15,6 @@
 
 # Những yếu tố môi trường ảnh hưởng tới marketing
 - [Những yếu tó môi trưởng ảnh hưởng tới marketing](./7.Những%20yếu%20tố%20môi%20trường%20ảnh%20hưởng%20tới%20marketing/1.index.md)
+
+# Hành vi người tiêu dùng
+- [Hành vi người tiêu dùng](./8.Hành%20vi%20của%20người%20tiêu%20dùng/1.index.md)
