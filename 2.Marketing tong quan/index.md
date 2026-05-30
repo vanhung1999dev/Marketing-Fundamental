@@ -21,3 +21,9 @@
 
 # Quá trình mua hàng
 - [Quá trình mua hàng](./9.Quá%20trình%20mua%20hàng/1.index.md)
+
+# Lợi thế cạnh tranh hệ thống tư duy
+- [Lợi thế cạnh tranh hệ thống tư duy](./10.Lợi%20thế%20cạnh%20tranh.md/1.index.md)
+
+# Lợi thế cạnh tranh lý trí
+- [7P - Hệ thống cạnh tranh lý trí](./11.Lọi%20thế%20cạnh%20tranh%20lý%20trí/1.index.md)
