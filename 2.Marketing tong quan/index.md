@@ -27,3 +27,6 @@
 
 # Lợi thế cạnh tranh lý trí
 - [7P - Hệ thống cạnh tranh lý trí](./11.Lọi%20thế%20cạnh%20tranh%20lý%20trí/1.index.md)
+
+# Lợi thế cạnh tranh từ giá trị sản phẩm
+- [Lợi thế cạnh tranh từ giá trị sản phẩm](./12.Lợi%20thế%20cạnh%20tranh%20từ%20giá%20trị%20sản%20phẩm/1.index.md)
