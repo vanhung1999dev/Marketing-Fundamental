@@ -18,3 +18,6 @@
 
 # Hành vi người tiêu dùng
 - [Hành vi người tiêu dùng](./8.Hành%20vi%20của%20người%20tiêu%20dùng/1.index.md)
+
+# Quá trình mua hàng
+- [Quá trình mua hàng](./9.Quá%20trình%20mua%20hàng/1.index.md)
