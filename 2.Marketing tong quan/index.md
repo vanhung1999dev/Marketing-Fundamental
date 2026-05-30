@@ -8,5 +8,7 @@
 - [Giá trị và chi phí từ khách hàng](./3.Giá%20trị%20và%20chi%20phí%20từ%20khách%20hàng/1.giá%20trị%20và%20chi%20phí%20từ%20khách%20hàng.md)
 
 # Chân dung khách hàng
-
 - [Chân dung khách hàng](./5.Chân%20dung%20khách%20hàng/1.Chân%20dung%20khách%20hàng.md)
+
+# Phân khúc thị trường mục tiêu
+- [Phân khúc thị trường mục tiêu](./6.Phân%20khúc%20thị%20trường%20mục%20tiêu/1.Phân%20khúc%20thị%20trường.md)
