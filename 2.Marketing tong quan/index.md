@@ -12,3 +12,6 @@
 
 # Phân khúc thị trường mục tiêu
 - [Phân khúc thị trường mục tiêu](./6.Phân%20khúc%20thị%20trường%20mục%20tiêu/1.Phân%20khúc%20thị%20trường.md)
+
+# Những yếu tố môi trường ảnh hưởng tới marketing
+- [Những yếu tó môi trưởng ảnh hưởng tới marketing](./7.Những%20yếu%20tố%20môi%20trường%20ảnh%20hưởng%20tới%20marketing/1.index.md)
