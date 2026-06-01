@@ -30,3 +30,9 @@
 
 # Lợi thế cạnh tranh từ giá trị sản phẩm
 - [Lợi thế cạnh tranh từ giá trị sản phẩm](./12.Lợi%20thế%20cạnh%20tranh%20từ%20giá%20trị%20sản%20phẩm/1.index.md)
+
+# Phân tích đôi thủ cạnh tranh
+- [Phân tích đôi thủ cạnh tranh](./13.Phân%20tích%20đối%20thủ/index.md)
+
+# Đinh vị thị trường
+- [Đinh vị thị trường](./14.Định%20vị%20thị%20trường/1.index.md)
