@@ -1,0 +1,17 @@
+# Lợi Thế Cạnh Tranh
+
+---
+
+## Phần 1 PORTER'S GENERIC STRATEGIES
+
+- [3 Con Đường Để Win](Ph%E1%BA%A7n%201%20PORTER%27S%20GENERIC%20STRATEGIES/1.1%203%20Con%20%C4%90%C6%B0%E1%BB%9Dng%20%C4%90%E1%BB%83%20Win.md)
+- ["Stuck in the Middle" — The Fatal Position](Ph%E1%BA%A7n%201%20PORTER%27S%20GENERIC%20STRATEGIES/1.2%20%22Stuck%20in%20the%20Middle%22%20-%20The%20Fatal%20Position.md)
+
+## Phần 2 ECONOMIC MOAT — LỢI THẾ BỀN VỮNG
+
+- [Warren Buffett's Moat Framework](Ph%E1%BA%A7n%202%20ECONOMIC%20MOAT%20%E2%80%94%20L%E1%BB%A2I%20TH%E1%BA%BE%20B%E1%BB%80N%20V%E1%BB%AENG/2.1%20Warren%20Buffett%27s%20Moat%20Framework.md)
+
+## Phần 3 VALUE CHAIN VÀ COMPETITIVE ADVANTAGE
+
+- [Porter's Value Chain Analysis](Ph%E1%BA%A7n%203%20VALUE%20CHAIN%20V%C3%80%20COMPETITIVE%20ADVANTAGE/3.1%20Porter%27s%20Value%20Chain%20Analysis.md)
+

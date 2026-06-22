@@ -1,0 +1,22 @@
+# Quản Trị Rủi Ro Doanh Nghiệp
+
+---
+
+## Phần 1 FRAMEWORK TƯ DUY VỀ RỦI RO
+
+- [Rủi Ro Là Gì — Và Tại Sao Không Thể Eliminate](Ph%E1%BA%A7n%201%20FRAMEWORK%20T%C6%AF%20DUY%20V%E1%BB%80%20R%E1%BB%A6I%20RO/1.1%20R%E1%BB%A7i%20Ro%20L%C3%A0%20G%C3%AC%20-%20V%C3%A0%20T%E1%BA%A1i%20Sao%20Kh%C3%B4ng%20Th%E1%BB%83%20Eliminate.md)
+- [4 Loại Phản Ứng Với Rủi Ro (Risk Response)](Ph%E1%BA%A7n%201%20FRAMEWORK%20T%C6%AF%20DUY%20V%E1%BB%80%20R%E1%BB%A6I%20RO/1.2%204%20Lo%E1%BA%A1i%20Ph%E1%BA%A3n%20%E1%BB%A8ng%20V%E1%BB%9Bi%20R%E1%BB%A7i%20Ro%20%28Risk%20Response%29.md)
+
+## Phần 2 ENTERPRISE RISK MANAGEMENT (ERM)
+
+- [Risk Categories Trong Doanh Nghiệp](Ph%E1%BA%A7n%202%20ENTERPRISE%20RISK%20MANAGEMENT%20%28ERM%29/2.1%20Risk%20Categories%20Trong%20Doanh%20Nghi%E1%BB%87p.md)
+
+## Phần 3 RISK IDENTIFICATION VÀ ASSESSMENT
+
+- [Risk Register — Công Cụ Cơ Bản](Ph%E1%BA%A7n%203%20RISK%20IDENTIFICATION%20V%C3%80%20ASSESSMENT/3.1%20Risk%20Register%20-%20C%C3%B4ng%20C%E1%BB%A5%20C%C6%A1%20B%E1%BA%A3n.md)
+- [Risk Matrix — Visual Prioritization](Ph%E1%BA%A7n%203%20RISK%20IDENTIFICATION%20V%C3%80%20ASSESSMENT/3.2%20Risk%20Matrix%20-%20Visual%20Prioritization.md)
+
+## Phần 4 RISK CULTURE
+
+- [Tại Sao Culture Là Foundation Của Risk Management](Ph%E1%BA%A7n%204%20RISK%20CULTURE/4.1%20T%E1%BA%A1i%20Sao%20Culture%20L%C3%A0%20Foundation%20C%E1%BB%A7a%20Risk%20Management.md)
+

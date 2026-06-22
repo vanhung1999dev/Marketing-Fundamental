@@ -1,0 +1,18 @@
+# Xây Dựng Và Phát Triển Đội Ngũ
+
+---
+
+## Phần 1 TUCKMAN MODEL — CÁC GIAI ĐOẠN PHÁT TRIỂN CỦA TEAM
+
+- [4 Stages của Team Development](Ph%E1%BA%A7n%201%20TUCKMAN%20MODEL%20%E2%80%94%20C%C3%81C%20GIAI%20%C4%90O%E1%BA%A0N%20PH%C3%81T%20TRI%E1%BB%82N%20C%E1%BB%A6A%20TEAM/1.1%204%20Stages%20c%E1%BB%A7a%20Team%20Development.md)
+
+## Phần 2 HIGH-PERFORMING TEAM CHARACTERISTICS
+
+- [The 5 Dysfunctions (Lencioni) — Và Cách Fix](Ph%E1%BA%A7n%202%20HIGH-PERFORMING%20TEAM%20CHARACTERISTICS/2.1%20The%205%20Dysfunctions%20%28Lencioni%29%20-%20V%C3%A0%20C%C3%A1ch%20Fix.md)
+- [Google's Project Aristotle — Gì Tạo Nên Team Tốt Nhất](Ph%E1%BA%A7n%202%20HIGH-PERFORMING%20TEAM%20CHARACTERISTICS/2.2%20Google%27s%20Project%20Aristotle%20-%20G%C3%AC%20T%E1%BA%A1o%20N%C3%AAn%20Team%20T%E1%BB%91t%20Nh%E1%BA%A5t.md)
+
+## Phần 3 DELEGATION HIỆU QUẢ
+
+- [Tại Sao Manager Không Delegate Đủ](Ph%E1%BA%A7n%203%20DELEGATION%20HI%E1%BB%86U%20QU%E1%BA%A2/3.1%20T%E1%BA%A1i%20Sao%20Manager%20Kh%C3%B4ng%20Delegate%20%C4%90%E1%BB%A7.md)
+- [Delegation Framework — 5 Levels](Ph%E1%BA%A7n%203%20DELEGATION%20HI%E1%BB%86U%20QU%E1%BA%A2/3.2%20Delegation%20Framework%20-%205%20Levels.md)
+
