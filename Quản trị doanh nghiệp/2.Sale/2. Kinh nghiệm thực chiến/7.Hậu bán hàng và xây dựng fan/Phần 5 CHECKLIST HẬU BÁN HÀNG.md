@@ -1,65 +1,65 @@
 ### Checklist Hậu Bán Hàng — Đảm Bảo Không Bỏ Sót Gì
 
-Checklist này cung cấp complete framework cho post-sale activities từ moment of close đến long-term relationship. Dùng như system đảm bảo consistency, không phải như rigid script.
+Checklist này cung cấp framework đầy đủ cho các hoạt động hậu bán hàng từ thời điểm chốt đến mối quan hệ dài hạn. Dùng như hệ thống đảm bảo tính nhất quán, không phải như kịch bản cứng nhắc.
 
 **CHECKLIST NGAY SAU KHI CHỐT (Giờ 0-4):**
 
-☐ Verbal confirmation với khách hàng về những gì đã agreed
-☐ Preview next steps ngắn gọn trong conversation
-☐ Confirm contact information và preferred communication channel
-☐ Warm intro/handoff nếu có CS team involvement
-☐ Internal briefing cho team sẽ handle onboarding (brief about customer context, pain points, expectations)
-☐ Confirmation email sent (template: deal summary, next steps, contacts, resources)
+☐ Xác nhận bằng lời với khách hàng về những gì đã thống nhất
+☐ Xem trước các bước tiếp theo ngắn gọn trong cuộc trò chuyện
+☐ Xác nhận thông tin liên lạc và kênh giao tiếp ưa thích
+☐ Giới thiệu/chuyển giao ấm nếu có sự tham gia của đội CS
+☐ Thông báo nội bộ cho team sẽ xử lý onboarding (tóm tắt bối cảnh khách hàng, vấn đề, kỳ vọng)
+☐ Email xác nhận đã gửi (mẫu: tóm tắt giao dịch, các bước tiếp theo, danh bạ, tài nguyên)
 
 **CHECKLIST TRONG 48 GIỜ:**
 
-☐ Check-in call hoặc email (assess if customer welcomes it)
-☐ Any remaining paperwork/contract signed và filed
-☐ CRM updated với full deal details, customer notes, và next follow-up scheduled
-☐ Onboarding timeline confirmed với customer
-☐ Internal kickoff với all parties involved in implementation
+☐ Cuộc gọi hoặc email check-in (đánh giá xem khách hàng có chào đón không)
+☐ Bất kỳ giấy tờ/hợp đồng còn lại nào đã ký và lưu trữ
+☐ CRM được cập nhật với toàn bộ chi tiết giao dịch, ghi chú khách hàng, và lịch follow-up tiếp theo
+☐ Lịch trình onboarding được xác nhận với khách hàng
+☐ Họp khởi động nội bộ với tất cả các bên liên quan đến triển khai
 
 **CHECKLIST TUẦN 1-4:**
 
-☐ Onboarding milestones being met
-☐ Early value delivery — identify và deliver "quick win" if possible
-☐ Proactive check-in after each major milestone
-☐ Address any friction points immediately — do NOT let small issues compound
-☐ 30-day survey sent (if applicable)
-☐ Referral timing: is customer experiencing value? If yes, gentle referral conversation
+☐ Các mốc onboarding đang được đáp ứng
+☐ Mang lại giá trị sớm — xác định và cung cấp "chiến thắng nhanh" nếu có thể
+☐ Check-in chủ động sau mỗi mốc quan trọng
+☐ Giải quyết bất kỳ điểm khó khăn nào ngay lập tức — KHÔNG để các vấn đề nhỏ tích lũy
+☐ Khảo sát 30 ngày đã gửi (nếu áp dụng)
+☐ Thời điểm referral: khách hàng có đang trải nghiệm giá trị không? Nếu có, cuộc trò chuyện referral nhẹ nhàng
 
 **CHECKLIST THÁNG 2-3:**
 
-☐ Results check: are they getting promised outcomes?
-☐ Expansion opportunity identification: new needs, new teams, new use cases
-☐ Formal QBR scheduling (if enterprise account)
-☐ NPS or satisfaction check-in
-☐ Ask for testimonial or case study if satisfaction is high
+☐ Kiểm tra kết quả: họ có đang đạt được kết quả như cam kết không?
+☐ Xác định cơ hội mở rộng: nhu cầu mới, đội nhóm mới, trường hợp sử dụng mới
+☐ Lên lịch QBR chính thức (nếu là tài khoản doanh nghiệp lớn)
+☐ NPS hoặc check-in đánh giá mức độ hài lòng
+☐ Xin lời chứng thực hoặc case study nếu mức độ hài lòng cao
 
-**CHECKLIST QUARTERLY:**
+**CHECKLIST HÀNG QUÝ:**
 
-☐ Formal QBR conducted with key stakeholders
-☐ Goals review: what was expected vs. what was delivered
-☐ Renewal conversation beginning (if appropriate)
-☐ Special role offer consideration (advisory board, speaker, case study)
-☐ Community invitation if active community exists
-☐ Referral program update and fresh ask
+☐ QBR chính thức được tổ chức với các bên liên quan chủ chốt
+☐ Đánh giá mục tiêu: kỳ vọng so với thực tế đạt được
+☐ Bắt đầu cuộc trò chuyện gia hạn (nếu phù hợp)
+☐ Cân nhắc đề xuất vai trò đặc biệt (ban cố vấn, diễn giả, case study)
+☐ Mời tham gia cộng đồng nếu có cộng đồng hoạt động
+☐ Cập nhật chương trình referral và xin lại một lần nữa
 
-**CHECKLIST ANNUAL:**
+**CHECKLIST HÀNG NĂM:**
 
-☐ Annual relationship review
-☐ Contract renewal discussion
-☐ Pricing review and adjustment (if applicable)
-☐ Executive relationship — have you connected key executives?
-☐ Competitive landscape check — any competitive threats?
-☐ Goal setting for next year
+☐ Đánh giá mối quan hệ hàng năm
+☐ Thảo luận gia hạn hợp đồng
+☐ Đánh giá và điều chỉnh giá (nếu áp dụng)
+☐ Mối quan hệ cấp lãnh đạo — bạn đã kết nối với các lãnh đạo cấp cao chưa?
+☐ Kiểm tra bối cảnh cạnh tranh — có mối đe dọa cạnh tranh nào không?
+☐ Đặt mục tiêu cho năm tới
 
-> **Bài học:** Print this checklist. For each new customer, create a version with specific dates filled in. Track completion. Deal quality is measured not just at signing but over the life of the customer relationship. Systems create consistent results; individual heroics don't scale.
+> **Bài học:** In checklist này ra. Với mỗi khách hàng mới, tạo phiên bản với ngày cụ thể được điền vào. Theo dõi việc hoàn thành. Chất lượng giao dịch không chỉ được đo tại thời điểm ký mà còn trong suốt vòng đời mối quan hệ khách hàng. Hệ thống tạo ra kết quả nhất quán; những nỗ lực cá nhân không thể mở rộng quy mô.
 
-> **Phân tích sâu:** According to Gainsight's State of Customer Success research: companies with formalized post-sale processes achieve 34% higher net revenue retention (renewals + expansion - churn). Formalized doesn't mean bureaucratic — it means consistent and trackable. The checklist is your consistency system.
+> **Phân tích sâu:** Theo nghiên cứu Trạng Thái Thành Công Khách Hàng của Gainsight: các công ty có quy trình hậu bán hàng được chính thức hóa đạt tỷ lệ giữ chân doanh thu thuần cao hơn 34% (gia hạn + mở rộng - churn). Chính thức hóa không có nghĩa là quan liêu — có nghĩa là nhất quán và có thể theo dõi. Checklist là hệ thống tính nhất quán của bạn.
 
-> **Sai lầm phổ biến:** Checklist used for compliance, không used as guide for actual behavior. Check boxes without genuine engagement defeats purpose. Checklist should be living guide that prompts real actions, not paperwork to show you "did the process."
+> **Sai lầm phổ biến #1:** Checklist được dùng để tuân thủ, không được dùng như hướng dẫn cho hành vi thực sự. Đánh dấu hoàn thành mà không có sự tham gia thực sự phá vỡ mục đích. Checklist nên là hướng dẫn sống động kịp thời cho các hành động thực sự, không phải giấy tờ để chứng minh bạn "đã làm theo quy trình."
 
-> **Cạm bẫy:** One checklist for all customers. Adjust depth of engagement based on account size và strategic importance. Enterprise customer needs full checklist với more frequent touchpoints; smaller customers need streamlined version focusing on high-leverage touchpoints.
+> **Cạm bẫy:** Một checklist cho tất cả khách hàng. Điều chỉnh độ sâu tham gia dựa trên quy mô tài khoản và tầm quan trọng chiến lược. Khách hàng doanh nghiệp lớn cần checklist đầy đủ với các điểm tiếp xúc thường xuyên hơn; khách hàng nhỏ hơn cần phiên bản đơn giản hóa tập trung vào các điểm tiếp xúc có đòn bẩy cao.
 
 ---
